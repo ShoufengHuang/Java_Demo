@@ -10,7 +10,7 @@ public class demo {
         System.out.println(50000);
         System.out.println(3 + 3);
         System.out.println(2 * 5);
-
+        //第二次修改，commit并push到github上
         //Java variables
         String name = "John";
         int myNum = 15;
