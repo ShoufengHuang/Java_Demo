@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class demo {
     public static void main(String [] args){
+        //第一次修改，commit并push到github上
         System.out.println("Hello World!");
         //print:not insert a new line
         System.out.print("Hello World! ");
